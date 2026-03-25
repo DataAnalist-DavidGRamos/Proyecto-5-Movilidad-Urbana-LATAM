@@ -30,7 +30,7 @@ print(f"Correlación de Pearson: {correlation:.2f}")
 Se utiliza Python para encontrar correlaciones reales entre el caos vial y el dinero (PIB). 
 
 📊 Visualización de Datos
-(Gráfico de dispersión que muestra la tendencia negativa entre tráfico y productividad)
+PIB.png
 
 ✅ Calidad de los Datos (QA)
 Integridad Referencial: Se aseguró que los nombres de las ciudades coincidieran entre las bases de datos de la OECD y TomTom.
@@ -38,7 +38,7 @@ Integridad Referencial: Se aseguró que los nombres de las ciudades coincidieran
 Limpieza: Tratamiento de outliers en niveles de congestión para evitar sesgos en el promedio regional.
 
 Autor: David G. Ramos
-[https://dataanalist-davidgramos.github.io/mi-sitio-web]
-[www.linkedin.com/in/david-g-ramos]
+https://dataanalist-davidgramos.github.io/mi-sitio-web
+www.linkedin.com/in/david-g-ramos
 Proyecto 5 de Carrera: Data Analytics - TripleTen
 
