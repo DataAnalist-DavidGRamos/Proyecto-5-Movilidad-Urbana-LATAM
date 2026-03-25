@@ -41,6 +41,7 @@ Integridad Referencial: Se aseguró que los nombres de las ciudades coincidieran
 Limpieza: Tratamiento de outliers en niveles de congestión para evitar sesgos en el promedio regional.
 
 Autor: David G. Ramos
+
 https://dataanalist-davidgramos.github.io/mi-sitio-web
 
 www.linkedin.com/in/david-g-ramos
