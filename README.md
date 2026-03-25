@@ -30,7 +30,10 @@ print(f"Correlación de Pearson: {correlation:.2f}")
 Se utiliza Python para encontrar correlaciones reales entre el caos vial y el dinero (PIB). 
 
 📊 Visualización de Datos
-PIB.png
+### 📊 Análisis de Correlación: Movilidad vs. Productividad
+A través de este diagrama de dispersión, identificamos que existe una correlación negativa significativa. Esto confirma que el aumento en los tiempos de traslado impacta directamente en el PIB per cápita de las ciudades analizadas.
+
+![Correlación Tráfico y PIB](PIB.png)
 
 ✅ Calidad de los Datos (QA)
 Integridad Referencial: Se aseguró que los nombres de las ciudades coincidieran entre las bases de datos de la OECD y TomTom.
