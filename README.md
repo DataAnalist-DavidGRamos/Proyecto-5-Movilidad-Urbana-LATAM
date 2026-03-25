@@ -42,6 +42,8 @@ Limpieza: Tratamiento de outliers en niveles de congestión para evitar sesgos e
 
 Autor: David G. Ramos
 https://dataanalist-davidgramos.github.io/mi-sitio-web
+
 www.linkedin.com/in/david-g-ramos
+
 Proyecto 5 de Carrera: Data Analytics - TripleTen
 
